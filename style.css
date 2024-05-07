@@ -9,7 +9,8 @@
 }
 
 body {
-  background-image: url(‘https://drive.google.com/file/d/1IZrkhEfems6CirXAQdyOuWWqypeKxbRV/view?usp=sharing’);
+  background-image: url('background.png');
+  background-repeat: no-repeat;
 }
 
 .material-symbols-outlined {
